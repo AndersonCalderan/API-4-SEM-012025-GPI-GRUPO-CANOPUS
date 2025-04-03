@@ -3,7 +3,7 @@
 # 🎓Aprendizado por Projeto Integrado (API)
 
 <p align="center">
- <img src="https://github.com/AndersonCalderan/API-2SEM-012024-GPI/blob/main/Sprint%201/Imagens/Logo.png" width="100%"/>
+ <img src="https://github.com/AndersonCalderan/API-4-SEM-012025-GPI-GRUPO-CANOPUS/blob/main/SPRINT%201/IMAGEM/construcao.gif" width="100%"/>
 </p>
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
@@ -40,7 +40,7 @@ Sprint | Previsão | Status| Histórico|
 # 👩‍💻Equipe
 
 <p align="center">
- <img src="https://github.com/AndersonCalderan/API-2SEM-012024-GPI/blob/main/Sprint%201/Imagens/Equipe%20Onset.png" width="100%"/>
+ <img src="https://github.com/AndersonCalderan/API-4-SEM-012025-GPI-GRUPO-CANOPUS/blob/main/SPRINT%201/IMAGEM/construcao.gif" width="100%"/>
 </p>
 
 # 🎯Objetivo do Projeto
@@ -68,7 +68,7 @@ A equipe ira realizar um planejamento de melhoria para a empresa FREUDENBERG com
 # 📇Tecnológias Específicas/Apoio
 
 <p align="center">
- <img src="https://github.com/AndersonCalderan/API-2SEM-012024-GPI/blob/main/Sprint%201/Imagens/tecnologia.png" width="100%"/>
+ <img src="https://github.com/AndersonCalderan/API-4-SEM-012025-GPI-GRUPO-CANOPUS/blob/main/SPRINT%201/IMAGEM/construcao.gif" width="100%"/>
 </p>
 
 # ⏳Cronograma das Sprints
