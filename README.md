@@ -80,11 +80,11 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 # 📋Backlog do produto
 
-![image]()
+![image](https://github.com/AndersonCalderan/API-4-SEM-012025-GPI-GRUPO-CANOPUS/blob/main/SPRINT%201/IMAGEM/construcao.gif)
 
 # 📋Burndown
 
-![image]()
+![image](https://github.com/AndersonCalderan/API-4-SEM-012025-GPI-GRUPO-CANOPUS/blob/main/SPRINT%201/IMAGEM/construcao.gif)
 
 
 ## 📌Sprint 1
