@@ -94,11 +94,8 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
  * [x] em desenvolvimento-
  
 ## 📌Sprint 2
-
-      
-## 📌Sprint 3
  
-     
+ 
 # 📝Competências desenvolvidas
 
 ## Hard Skill (saber tecnológico)
