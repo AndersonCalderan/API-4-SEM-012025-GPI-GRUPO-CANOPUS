@@ -30,8 +30,8 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 24/02/2025 |concluido| [Ver Relatório](https://github.com/AndersonCalderan/API-2SEM-012024-GPI/blob/main/Sprint%201/Documentos/Relatorio%20T%C3%A9cnico%20Oscar%20-%20Onset.pdf) | 
 |01| 26/04/2025 |em andamento| [Ver Relatório](https://github.com/AndersonCalderan/API-2SEM-012024-GPI/blob/main/Sprint%201/Documentos/Resumo%20sprint%201.pdf) | 
-|02| 19/05/2025 |a fazer|[Ver Relatório]() | 
-|Feira de Soluções|29/06/2025 |a fazer|[Ver Relatório]() | 
+|02| 17/05/2025 |a fazer|[Ver Relatório]() | 
+|Feira de Soluções|26/06/2025 |a fazer|[Ver Relatório]() | 
 
 # 🚦Status do Projeto
 
