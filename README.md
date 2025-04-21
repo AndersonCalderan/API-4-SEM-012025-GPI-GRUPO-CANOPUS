@@ -70,7 +70,7 @@ A equipe ira realizar um planejamento de melhoria para a empresa FREUDENBERG com
 # 📇Tecnológias Específicas/Apoio
 
 <p align="center">
- <img src="https://github.com/AndersonCalderan/API-4-SEM-012025-GPI-GRUPO-CANOPUS/blob/main/SPRINT%201/IMAGEM/construcao.gif" width="100%"/>
+ <img src="https://github.com/AndersonCalderan/API-4-SEM-012025-GPI-GRUPO-CANOPUS/blob/main/SPRINT%201/IMAGEM/Tecnologia.png" width="100%"/>
 </p>
 
 # ⏳Cronograma das Sprints
