@@ -3,7 +3,7 @@
 # 🎓Aprendizado por Projeto Integrado (API)
 
 <p align="center">
- <img src="https://github.com/AndersonCalderan/API-4-SEM-012025-GPI-GRUPO-CANOPUS/blob/main/SPRINT%201/IMAGEM/construcao.gif" width="100%"/>
+ <img src="https://github.com/AndersonCalderan/API-4-SEM-012025-GPI-GRUPO-CANOPUS/blob/main/SPRINT%201/IMAGEM/togo%20providoria.png" width="100%"/>
 </p>
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
